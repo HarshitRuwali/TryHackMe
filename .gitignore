@@ -1,0 +1,7 @@
+# MacOS generated files
+.DS_Store
+
+# Obsidian config
+.obsidian/
+
+*.ovpn
