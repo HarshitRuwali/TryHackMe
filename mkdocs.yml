@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Try Hack Me Writeups
 
 theme:
     name: 'material'
