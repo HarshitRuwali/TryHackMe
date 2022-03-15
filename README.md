@@ -10,6 +10,7 @@ https://tryhackme.com/p/sp00fexpl01t
 View the notes in web [https://harshitruwali.github.io/TryHackMe/index.md/](https://harshitruwali.github.io/TryHackMe/index.md/)
 
 OR use [Obsidian](https://obsidian.md) for the responsiveness. 
+
 OR use [obsidian-export](https://github.com/zoni/obsidian-export) to export the Obsidian Vault/Notes to regular markdown files.
 
 ----
@@ -22,3 +23,6 @@ Ping me if you need help.
 
 ---- 
 
+Hosted the obsidian notes to web pages with the help of [obsidian-publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs)
+
+----
